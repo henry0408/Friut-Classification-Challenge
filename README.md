@@ -14,7 +14,11 @@ The dataset contains 21 kinds of fruit. We firstly built up a baseline network f
 
 ## 3. Baseline Network (GoogleNet):
 
-<img src="https://user-images.githubusercontent.com/58734009/193274232-432df277-51e2-420a-b50b-4fee0fef8446.png" width="500" height="400"><img src="https://user-images.githubusercontent.com/58734009/193274299-ea2e2427-04fb-4d0f-858b-aa913230f2a2.png" width="500" height="400">
+<div align="center">
+  <img style="overflow:hidden;" src="https://user-images.githubusercontent.com/58734009/193274232-432df277-51e2-420a-b50b-4fee0fef8446.png" width=45%>
+  <img style="overflow:hidden;" src="https://user-images.githubusercontent.com/58734009/193274299-ea2e2427-04fb-4d0f-858b-aa913230f2a2.png" width=45%>
+</div>
+<br>
 
 ## 4. Modified Network structure:
 
